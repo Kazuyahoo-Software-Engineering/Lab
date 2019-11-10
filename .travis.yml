@@ -27,7 +27,7 @@ deploy:
   provider: heroku
   api_key:
     secure: $HEROKU_API_KEY
-  app: herokutest00657145
+  app: lab4haha
   on:
-    repo: tigercat0828/Lab
+    repo: kazuyahooo/Lab
     
